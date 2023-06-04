@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-with-flexbox-tJC_S0mewg](https://www.frontendmentor.io/solutions/responsive-landing-page-with-flexbox-tJC_S0mewg)
+- Live Site URL: [https://gabirueitz.github.io/huddle-landing-page/](https://gabirueitz.github.io/huddle-landing-page/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [Font Awesomw](https://fontawesome.com/) - For icons styles
+- [Font Awesome](https://fontawesome.com/) - For icons styles
 
 ### What I learned
 
