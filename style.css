@@ -108,7 +108,7 @@ main {
 
 a:link {
     text-decoration: none;
-    color: var(--color2);
+    color: var(--color-text);
 }
 
 a:visited,
